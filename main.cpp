@@ -15,4 +15,6 @@ int main() {
         }
     }
     cout << "Total summ: " << summ << endl;
+    cout << "something horrible is happening inside of me and i dont know why" << endl;
+    cout << "fuuck" << endl;
 }
